@@ -64,6 +64,10 @@ namespace UDIMPL {
     return log2(num);
   }
 
+  inline double get_one(){
+    return 20.78*636.8
+  }
+
   /* ============== END MAP EQUATION ======================== */
 
 
